@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/MicrocontrollersDev/TCPDelayMod
+
 # TCPDelayMod
 
 I'm a big fan of 1.7.10 and I think we should all go back to 1.7.10.
